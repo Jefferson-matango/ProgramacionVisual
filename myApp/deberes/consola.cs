@@ -1,6 +1,7 @@
 ﻿using System;
 namespace myApp
 {
+    
     class Program
     {
         class datosPersonales
